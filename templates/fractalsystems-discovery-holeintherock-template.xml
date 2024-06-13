@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+  <Descr>AceXML Document</Descr>
+  <Filename>fractalsystems-discovery-holeintherock.spb</Filename>
+  <WorldBase.Flight>
+    <SimMission.FlowEventAction InstanceId="{EFDB79A6-61E9-4290-A344-AA101E7F7D64}">
+      <Descr>FlowEvent_ForceShowEnable</Descr>
+      <FlowEvents>
+        <FlowEvent id="PANEL_FUEL_PAYLOAD_FORCE_ENABLED"/>
+        <FlowEvent id="PANEL_FUEL_PAYLOAD_FORCE_SHOW"/>
+        <FlowEvent id="PANEL_REPLAY_FORCE_ENABLED"/>
+        <FlowEvent id="PANEL_REPLAY_FORCE_SHOW"/>
+      </FlowEvents>
+    </SimMission.FlowEventAction>
+    <SimMission.FlowStateAction InstanceId="{326D9A71-EA88-4226-8883-92D946FC39F2}">
+      <FlowStateName>FREEFLIGHT</FlowStateName>
+      <FromSpawn>true</FromSpawn>
+      <TeleportFlowEvents>
+        <FlowEvent id="SHOW_MISSION_STARTUP" />
+        <FlowEvent id="PAUSE_SIM" />
+        <FlowEvent id="ATC_RESUME" />
+      </TeleportFlowEvents>
+      <TeleportActions>
+        <WorldBase.ObjectReference id="WWiseRTCState_RTC_IN_FLIGHT" InstanceId="{97CD6888-5DA9-45FA-8800-70A7000DB7FA}" />
+      </TeleportActions>
+      <StartFlowEvents>
+        <FlowEvent id="UNPAUSE_SIM" />
+        <FlowEvent id="PANEL_ATC_FORCE_ENABLED" />
+        <FlowEvent id="PANEL_COPILOT_FORCE_ENABLED" />
+        <FlowEvent id="PANEL_FLY_ASSISTANT_FORCE_ENABLED" />
+        <FlowEvent id="PANEL_FUEL_PAYLOAD_FORCE_ENABLED" />
+        <FlowEvent id="PANEL_CHECKLIST_FORCE_ENABLED" />
+        <FlowEvent id="PANEL_GAME_NAVLOG_FORCE_ENABLED" />
+        <FlowEvent id="PANEL_VFR_MAP_FORCE_ENABLED" />
+        <FlowEvent id="PANEL_WEATHER_FORCE_ENABLED" />
+        <FlowEvent id="PANEL_TELEPORT_FORCE_ENABLED" />
+        <FlowEvent id="PANEL_REPLAY_FORCE_ENABLED" />
+        <FlowEvent id="PANEL_OBJECTIVES_FORCE_ENABLED" />
+      </StartFlowEvents>
+      <StartActions>
+        <WorldBase.ObjectReference id="WWiseRTCState_NON_RTC" InstanceId="{C3271B26-2A26-4830-A0DA-BB6AF9020A87}" />
+        <WorldBase.ObjectReference id="ACT Timer End Notif" InstanceId="{A429D222-48DC-4DF2-89C1-B894D9859809}" />
+      </StartActions>
+    </SimMission.FlowStateAction>
+    <SimMission.CylinderArea InstanceId="{69A8E8D9-E6ED-4669-B8BD-23D6347B09A2}" id="fractalsystems-discovery-holeintherock">
+      <CylinderRadius>100000.000</CylinderRadius>
+      <Height>2818.000</Height>
+      <SimBase.Descr>fractalsystems-discovery-holeintherock</SimBase.Descr>
+      <WorldBase.Orientation>0.000,0.000,0.000</WorldBase.Orientation>
+      <WorldBase.AttachedWorldPosition>
+        <AltitudeIsAGL>false</AltitudeIsAGL>
+        <IsOnGround>true</IsOnGround>
+        <WorldPosition>N12° 03' 51.53", E23° 26' 41.22",+12.06</WorldPosition>
+        <Orientation>0.000,0.000,0.000</Orientation>
+      </WorldBase.AttachedWorldPosition>
+    </SimMission.CylinderArea>
+    <SimMission.PlayMusicAction InstanceId="{425D77EF-C830-4422-95EA-A981AC5669B8}">
+      <Descr>BTI's famous WWise interface</Descr>
+      <MusicSelection>Default_Blank_Soundbank</MusicSelection>
+    </SimMission.PlayMusicAction>
+
+
+  </WorldBase.Flight>
+</SimBase.Document>

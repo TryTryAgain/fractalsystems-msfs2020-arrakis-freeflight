@@ -1,0 +1,48 @@
+<CommandsInputs>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-desertrun\PackageDefinitions\fractalsystems-discovery-desertrun\ContentInfo\Thumbnail.jpg" Failure="0">
+		<Package Name="fractalsystems-discovery-desertrun" Failure="0">
+			<AssetGroup Name="ContentInfo"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-desertrun\PackageSources\fractalsystems-discovery-desertrun\NotReallyDiscovery2.xml" Failure="0">
+		<Package Name="fractalsystems-discovery-desertrun" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-desertrun"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-desertrun\PackageSources\Landmarks\fractalsystems-discovery-desertrun\fractalsystems-discovery-desertrun-landmarks.xml" Failure="0">
+		<Package Name="fractalsystems-discovery-desertrun" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-desertrun_Landmarks"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-desertrun\PackageSources\fractalsystems-discovery-desertrun\images\Loading_Screen.jpg" Failure="0">
+		<Package Name="fractalsystems-discovery-desertrun" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-desertrun"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-desertrun\PackageSources\fractalsystems-discovery-desertrun\Default_Blank_Soundbank.PC.PCK" Failure="0">
+		<Package Name="fractalsystems-discovery-desertrun" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-desertrun"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-desertrun\PackageSources\fractalsystems-discovery-desertrun\fractalsystems-discovery-desertrun.FLT" Failure="0">
+		<Package Name="fractalsystems-discovery-desertrun" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-desertrun"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-desertrun\PackageSources\fractalsystems-discovery-desertrun\images\Activity_Widget.jpg" Failure="0">
+		<Package Name="fractalsystems-discovery-desertrun" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-desertrun"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-desertrun\PackageSources\fractalsystems-discovery-desertrun\fractalsystems-discovery-desertrun.xml" Failure="0">
+		<Package Name="fractalsystems-discovery-desertrun" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-desertrun"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-desertrun\PackageSources\fractalsystems-discovery-desertrun\images\Briefing.jpg" Failure="0">
+		<Package Name="fractalsystems-discovery-desertrun" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-desertrun"/>
+		</Package>
+	</File>
+</CommandsInputs>
+

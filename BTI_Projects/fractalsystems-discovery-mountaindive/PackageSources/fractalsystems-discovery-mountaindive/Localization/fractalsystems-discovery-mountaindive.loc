@@ -1,0 +1,151 @@
+{
+  "LocalisationFile": {
+    "Version": 2,
+    "UUID": "e81b64f9-fb38-4eb9-9de8-7dfc01779235",
+    "Languages": [
+      "en-US"
+    ],
+    "Strings": {
+      "fractalsystems-discovery-mountaindive.Mission.1": {
+        "UUID": "76a5dd29-3437-4bf7-a41c-8b44f5c9213b",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 19:18:42Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Practice the Dune Challenges without the limitations"
+          }
+        }
+      },
+      "fractalsystems-discovery-mountaindive.Mission.2": {
+        "UUID": "d810b1a6-5aff-4087-8e1a-29ab6e133994",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 19:18:42Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Explore Arrakis without boundaries"
+          }
+        }
+      },
+      "fractalsystems-discovery-mountaindive.Mission.3": {
+        "UUID": "24010167-b1d9-4ff9-a749-3431b157b236",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 19:18:42Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Get that perfect screenshot"
+          }
+        }
+      },
+      "fractalsystems-discovery-mountaindive.Mission.4": {
+        "UUID": "f6bda6f0-c5d3-4773-8d73-5650d70765d8",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 19:18:42Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Find hidden spots and details not seen in mission-based gameplay"
+          }
+        }
+      },
+      "fractalsystems-discovery-mountaindive.Mission.5": {
+        "UUID": "0d6c7977-6219-44a9-a315-13a8abd0ccce",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 19:18:42Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Explore the buried/bulging Earth by teleporting to any ICAO/coordinates"
+          }
+        }
+      },
+      "fractalsystems-discovery-mountaindive.Mission.6": {
+        "UUID": "24b412a1-8c9a-4d3d-834d-1e432a587c63",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 19:18:42Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Mountain Dive Training"
+          }
+        }
+      },
+      "fractalsystems-discovery-mountaindive.Mission.7": {
+        "UUID": "31b9b4c5-0317-44dc-8342-0a7aabd41a7b",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 19:18:42Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Bight of the Cliff"
+          }
+        }
+      },
+      "fractalsystems-discovery-mountaindive.Mission.8": {
+        "UUID": "872d7b62-c00b-4441-b578-c97e6d89a50f",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 19:18:42Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Bight of the Cliff Uncharted"
+          }
+        }
+      },
+      "fractalsystems-discovery-mountaindive.Mission.9": {
+        "UUID": "c2f9d268-bf6c-427a-99cc-5ca00ddd968a",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 19:18:42Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Discover the Bight of the Cliff like never before. Practice the Mountain Dive Bight of the Cliff challenge without the limitations.<br><br>Take your training to the next level with unrestricted access to Arrakis. Fly the Ornithopter in various conditions and terrains, from open deserts to intricate rock formations.<br><br>All settings present in FreeFlight should be available: feel free to turn off POIs, change time of day/weather, turn off crash damage, play around with replay or anything else."
+          }
+        }
+      },
+      "fractalsystems-discovery-mountaindive.Mission.10": {
+        "UUID": "c30a0e39-f1f6-4e3a-9300-6fff8d1614ba",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 19:18:42Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "fractalsystems-discovery-mountaindive created with BushTripInjector 3.4.1.4648 Community Edition"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,4 @@
+[GeneratorInfo]
+SourceFilename=C:\Users\luke\Documents\BushTripInjector\BTI-Files\fractalsystems-discovery-holeintherock.bti
+TargetPath=C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-mountaindive
+GenerationDate=6/9/2024 3:18:42 PM

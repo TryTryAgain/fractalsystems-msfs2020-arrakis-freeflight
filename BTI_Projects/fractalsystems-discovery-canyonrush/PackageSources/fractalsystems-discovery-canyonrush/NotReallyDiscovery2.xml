@@ -1,0 +1,151 @@
+<SimBase.Document Type="MissionFile" version="1,0">
+    <Title>FreeFlight</Title>
+    <Filename>NotReallyDiscovery2.spb</Filename>
+    <WorldBase.Flight>
+        <SimMission.TimerTriggerFlowStateAction InstanceId="{50B730D9-18C0-41F6-8B7D-8FD0A17BDD57}">
+            <SimBase.Descr>TimerStart</SimBase.Descr>
+            <WorldBase.Activated>true</WorldBase.Activated>
+            <DefaultActivated>true</DefaultActivated>
+            <OneShot>true</OneShot>
+            <OnScreenTimer>true</OnScreenTimer>
+            <StartTime>0.000</StartTime>
+            <StopTime>0.000</StopTime>
+            <UseFirstFlightState>true</UseFirstFlightState>
+            <Actions>
+                <WorldBase.ObjectReference id="WiseAFSSet" InstanceId="{99227290-5396-42C8-974B-16C618F7402F}"/>
+                <WorldBase.ObjectReference id="WWiseIntroState" InstanceId="{2D07717A-AEFD-454C-9A18-9520423DBB3C}"/>
+                <WorldBase.ObjectReference id="WWiseAreaState" InstanceId="{425D77EF-C830-4422-95EA-A981AC5669B8}"/>
+                <WorldBase.ObjectReference id="Set_Music_SC_Attack" InstanceId="{0F129E6A-B070-4A2D-AAEC-7B75C85C68BD}"/>
+                <WorldBase.ObjectReference id="Set_Music_SC_Hold" InstanceId="{B0C2B324-C239-41E2-8167-80C134183168}"/>
+                <WorldBase.ObjectReference id="Set_Music_SC_Release" InstanceId="{4F1CF4EF-B77D-4224-A239-40A7723ED812}"/>
+            </Actions>
+        </SimMission.TimerTriggerFlowStateAction>
+        <SimMission.OnSpawnTrigger InstanceId="{0B219FA8-D2DA-4C44-8165-34DC61A44D3B}">
+            <SimBase.Descr>OnSpawnTrigger</SimBase.Descr>
+            <WorldBase.Activated>true</WorldBase.Activated>
+            <Actions>
+                <WorldBase.ObjectReference id="PreloadRTC for FirstFlightState" InstanceId="{F53045E9-D487-4C89-B21C-15F3C4EE0F07}"/>
+            </Actions>
+        </SimMission.OnSpawnTrigger>
+        <SimMission.RTCLocationsPreloadAction InstanceId="{F53045E9-D487-4C89-B21C-15F3C4EE0F07}">
+            <SimBase.Descr>PreloadRTC for FirstFlightState</SimBase.Descr>
+            <UseFirstFlightState>true</UseFirstFlightState>
+        </SimMission.RTCLocationsPreloadAction>
+        <SimMission.FlowStateAction InstanceId="{9D7319D6-F37E-45E8-9726-195163E2876C}">
+            <FlowStateName>FLIGHT_CRUISE</FlowStateName>
+            <FromSpawn>true</FromSpawn>
+            <TeleportFlowEvents>
+                <FlowEvent id="PAUSE_SIM"/>
+                <FlowEvent id="ATC_RESUME"/>
+            </TeleportFlowEvents>
+            <TeleportActions>
+                <WorldBase.ObjectReference id="WWiseRTCState_RTC" InstanceId="{A17AC003-CF59-4FD0-B191-8AEE39ED8B58}"/>
+            </TeleportActions>
+            <StartFlowEvents>
+                <FlowEvent id="UNPAUSE_SIM"/>
+                <FlowEvent id="PANEL_ATC_FORCE_ENABLED"/>
+                <FlowEvent id="PANEL_CHECKLIST_FORCE_ENABLED"/>
+                <FlowEvent id="PANEL_FUEL_PAYLOAD_FORCE_ENABLED"/>
+                <FlowEvent id="PANEL_TELEPORT_FORCE_ENABLED"/>
+                <FlowEvent id="PANEL_REPLAY_FORCE_ENABLED"/>
+                <FlowEvent id="PANEL_OBJECTIVES_FORCE_ENABLED"/>
+            </StartFlowEvents>
+            <StartActions>
+                <WorldBase.ObjectReference id="WWiseRTCState_NON_RTC" InstanceId="{C3271B26-2A26-4830-A0DA-BB6AF9020A87}"/>
+                <FlowEvent id="UNPAUSE_SIM"/>
+            </StartActions>
+        </SimMission.FlowStateAction>
+        <SimMission.FlowStateWise InstanceId="{43071EAB-D106-41CC-88D6-B113CDAE289B}">
+            <SimBase.Descr>WiseAFSSet</SimBase.Descr>
+            <GroupName>ACTIVITIES_FLOW_STATE</GroupName>
+            <ElementName>FREE_FLIGHT</ElementName>
+        </SimMission.FlowStateWise>
+        <SimMission.FlowStateWise InstanceId="{99227290-5396-42C8-974B-16C618F7402F}">
+            <SimBase.Descr>WiseAFSSet</SimBase.Descr>
+            <GroupName>ACTIVITIES_FLOW_STATE</GroupName>
+            <ElementName>DISCOVERY</ElementName>
+        </SimMission.FlowStateWise>
+        <SimMission.FlowStateWise InstanceId="{2D07717A-AEFD-454C-9A18-9520423DBB3C}">
+            <SimBase.Descr>WWiseIntroState</SimBase.Descr>
+            <GroupName>GAME_FLOW_STATE</GroupName>
+            <ElementName>INTRO</ElementName>
+        </SimMission.FlowStateWise>
+        <SimMission.FlowStateWise InstanceId="{A17AC003-CF59-4FD0-B191-8AEE39ED8B58}">
+            <SimBase.Descr>WWiseRTCState_RTC</SimBase.Descr>
+            <GroupName>GAME_RTC_STATE</GroupName>
+            <ElementName>RTC</ElementName>
+        </SimMission.FlowStateWise>
+        <SimMission.FlowStateWise InstanceId="{97CD6888-5DA9-45FA-8800-70A7000DB7FA}">
+            <SimBase.Descr>WWiseRTCState_RTC_IN_FLIGHT</SimBase.Descr>
+            <GroupName>GAME_RTC_STATE</GroupName>
+            <ElementName>RTC_IN_FLIGHT</ElementName>
+        </SimMission.FlowStateWise>
+        <SimMission.FlowStateWise InstanceId="{C3271B26-2A26-4830-A0DA-BB6AF9020A87}">
+            <SimBase.Descr>WWiseRTCState_NON_RTC</SimBase.Descr>
+            <GroupName>GAME_RTC_STATE</GroupName>
+            <ElementName>NON_RTC</ElementName>
+        </SimMission.FlowStateWise>
+        <SimMission.RTPCAction InstanceId="{0F129E6A-B070-4A2D-AAEC-7B75C85C68BD}">
+            <SimBase.Descr>Set_Music_SC_Attack</SimBase.Descr>
+            <WwiseRTPCName>METER_ATTACK_TIME_MINUS12</WwiseRTPCName>
+            <WwiseRTPCValue>3.000</WwiseRTPCValue>
+        </SimMission.RTPCAction>
+        <SimMission.RTPCAction InstanceId="{B0C2B324-C239-41E2-8167-80C134183168}">
+            <SimBase.Descr>Set_Music_SC_Hold</SimBase.Descr>
+            <WwiseRTPCName>METER_HOLD_TIME_MINUS12</WwiseRTPCName>
+            <WwiseRTPCValue>5.000</WwiseRTPCValue>
+        </SimMission.RTPCAction>
+        <SimMission.RTPCAction InstanceId="{4F1CF4EF-B77D-4224-A239-40A7723ED812}">
+            <SimBase.Descr>Set_Music_SC_Release</SimBase.Descr>
+            <WwiseRTPCName>METER_RELEASE_TIME_MINUS12</WwiseRTPCName>
+            <WwiseRTPCValue>10.000</WwiseRTPCValue>
+        </SimMission.RTPCAction>
+        <SimMission.MissionDiscovery InstanceId="{5066DDF9-784D-4752-BEEA-3D31383A9528}">
+            <SimBase.Descr>Free flight</SimBase.Descr>
+            <SuccessText>TT:MISSIONMESSAGE.ACTIVITY.SUCCESS</SuccessText>
+            <FailureText>TT:MISSIONMESSAGE.ACTIVITY.FAILED</FailureText>
+            <AbortedText>TT:MISSIONMESSAGE.ACTIVITY.ABORTED</AbortedText>
+            <WorldBase.Activated>true</WorldBase.Activated>
+        </SimMission.MissionDiscovery>
+        <SimMission.ObjectActivationAction InstanceId="{A429D222-48DC-4DF2-89C1-B894D9859809}">
+            <SimBase.Descr>ACT Timer End Notif</SimBase.Descr>
+            <WorldBase.ObjectReferenceList>
+                <ObjectReference id="Timer End Notif" InstanceId="{69C50B46-5B4F-4E02-9A9F-625D88E011EA}"/>
+            </WorldBase.ObjectReferenceList>
+        </SimMission.ObjectActivationAction>
+        <SimMission.TimerTrigger InstanceId="{69C50B46-5B4F-4E02-9A9F-625D88E011EA}">
+            <SimBase.Descr>Timer End Notif</SimBase.Descr>
+            <WorldBase.Activated>false</WorldBase.Activated>
+            <OnScreenTimer>true</OnScreenTimer>
+            <OneShot>false</OneShot>
+            <StartTime>0.000</StartTime>
+            <StopTime>600.000</StopTime>
+            <Actions>
+                <WorldBase.ObjectReference id="End_Notif" InstanceId="{95A8525A-AC6B-4857-AA28-AC355D061AE5}"/>
+            </Actions>
+        </SimMission.TimerTrigger>
+        <SimMission.EventTriggerAction id="End Notif" InstanceId="{95A8525A-AC6B-4857-AA28-AC355D061AE5}">
+            <SimBase.Descr>End Notification</SimBase.Descr>
+            <Name>EVENT_TRIGGER_END_DISCOVERY</Name>
+        </SimMission.EventTriggerAction>
+        <SimMission.ProximityTrigger InstanceId="{CADBA300-EA8E-4C4A-B75E-F1CA752F8B44}">
+            <WorldBase.Activated>true</WorldBase.Activated>
+            <SimBase.Descr>End of Area notification</SimBase.Descr>
+            <OneShot>false</OneShot>
+            <Areas>
+                <WorldBase.ObjectReference id="EndArea" InstanceId="{69A8E8D9-E6ED-4669-B8BD-23D6347B09A2}"/>
+            </Areas>
+            <OnExitActions>
+                <WorldBase.ObjectReference id="End Notif" InstanceId="{95A8525A-AC6B-4857-AA28-AC355D061AE5}"/>
+            </OnExitActions>
+        </SimMission.ProximityTrigger>
+        <SimMission.AITakeControlsAction InstanceId="{4B05ACB0-24FF-4E91-9C8B-2A71F881DE6F}">
+            <SimBase.Descr>AI takes controls</SimBase.Descr>
+            <AIControl>True</AIControl>
+        </SimMission.AITakeControlsAction>
+        <SimMission.AITakeControlsAction InstanceId="{1AA91671-30AD-4A5C-8DEF-7D80C558EBDC}">
+            <SimBase.Descr>AI leaves controls</SimBase.Descr>
+            <AIControl>Default</AIControl>
+        </SimMission.AITakeControlsAction>
+    </WorldBase.Flight>
+</SimBase.Document>

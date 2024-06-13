@@ -1,0 +1,4 @@
+[GeneratorInfo]
+SourceFilename=C:\Users\luke\Documents\BushTripInjector\BTI-Files\fractalsystems-discovery-desertrun.bti
+TargetPath=C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-desertrun
+GenerationDate=6/9/2024 4:05:29 PM

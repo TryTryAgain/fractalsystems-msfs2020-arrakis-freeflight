@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="1.0.0">
+	<ItemSettings>
+		<ContentType>MISSION</ContentType>
+		<Title>fractalsystems-discovery-racetoarrakeen</Title>
+		<Manufacturer>fractalsystems</Manufacturer>
+		<Creator>fractalsystems</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>true</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags> 
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\fractalsystems-discovery-racetoarrakeen\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\fractalsystems-discovery-racetoarrakeen\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="fractalsystems-discovery-racetoarrakeen">
+			<Type>Mission</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\fractalsystems-discovery-racetoarrakeen\</AssetDir>
+			<OutputDir>Missions\fractalsystems\Discovery\fractalsystems-discovery-racetoarrakeen\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="fractalsystems-discovery-racetoarrakeen_Landmarks">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Landmarks\fractalsystems-discovery-racetoarrakeen\</AssetDir>
+			<OutputDir>scenery\Landmarks\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>

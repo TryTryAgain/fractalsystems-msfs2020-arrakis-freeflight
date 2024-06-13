@@ -1,0 +1,4 @@
+[GeneratorInfo]
+SourceFilename=C:\Users\luke\Documents\BushTripInjector\BTI-Files\fractalsystems-discovery-coriolisstormescape.bti
+TargetPath=C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-coriolisstormescape
+GenerationDate=6/13/2024 1:23:00 PM

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="1.0.0">
+	<ItemSettings>
+		<ContentType>MISSION</ContentType>
+		<Title>fractalsystems-discovery-desertrun</Title>
+		<Manufacturer>fractalsystems</Manufacturer>
+		<Creator>fractalsystems</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>true</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags> 
+	<Dependencies>
+		<Dependency Version="">
+			<Name></Name>
+		</Dependency>
+	</Dependencies>
+
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\fractalsystems-discovery-desertrun\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\fractalsystems-discovery-desertrun\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="fractalsystems-discovery-desertrun">
+			<Type>Mission</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\fractalsystems-discovery-desertrun\</AssetDir>
+			<OutputDir>Missions\fractalsystems\Discovery\fractalsystems-discovery-desertrun\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="fractalsystems-discovery-desertrun_Landmarks">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Landmarks\fractalsystems-discovery-desertrun\</AssetDir>
+			<OutputDir>scenery\Landmarks\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>

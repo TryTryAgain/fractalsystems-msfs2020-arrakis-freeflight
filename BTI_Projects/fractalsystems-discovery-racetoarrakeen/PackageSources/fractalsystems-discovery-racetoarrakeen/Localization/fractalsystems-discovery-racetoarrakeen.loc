@@ -1,0 +1,151 @@
+{
+  "LocalisationFile": {
+    "Version": 2,
+    "UUID": "24ab2601-a79c-4368-bc28-8eb5f170cc46",
+    "Languages": [
+      "en-US"
+    ],
+    "Strings": {
+      "fractalsystems-discovery-racetoarrakeen.Mission.1": {
+        "UUID": "8dc71505-c9c8-4311-86a4-9e02ca25a768",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 19:25:48Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Practice the Dune Challenges without the limitations"
+          }
+        }
+      },
+      "fractalsystems-discovery-racetoarrakeen.Mission.2": {
+        "UUID": "7999e00c-fce9-40d1-9409-f9d25c2f0f7c",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 19:25:48Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Explore Arrakis without boundaries"
+          }
+        }
+      },
+      "fractalsystems-discovery-racetoarrakeen.Mission.3": {
+        "UUID": "8afa69ab-3b02-427c-81a2-9f1a2c202ef8",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 19:25:48Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Get that perfect screenshot"
+          }
+        }
+      },
+      "fractalsystems-discovery-racetoarrakeen.Mission.4": {
+        "UUID": "d5110332-c0fd-44ba-8505-b2b5cbb20c81",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 19:25:48Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Find hidden spots and details not seen in mission-based gameplay"
+          }
+        }
+      },
+      "fractalsystems-discovery-racetoarrakeen.Mission.5": {
+        "UUID": "6b5086f3-7cb9-4155-836a-99d421545dce",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 19:25:48Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Explore the buried/bulging Earth by teleporting to any ICAO/coordinates"
+          }
+        }
+      },
+      "fractalsystems-discovery-racetoarrakeen.Mission.6": {
+        "UUID": "258eb2f7-03a7-44c8-b495-f8676385a7b8",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 19:25:48Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Race to Arrakeen Training"
+          }
+        }
+      },
+      "fractalsystems-discovery-racetoarrakeen.Mission.7": {
+        "UUID": "c4bafe06-be7e-4516-94be-911f34b2a6bb",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 19:25:48Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Imperial Basin"
+          }
+        }
+      },
+      "fractalsystems-discovery-racetoarrakeen.Mission.8": {
+        "UUID": "e7cc583c-90a1-4704-8bb5-34f2781edba2",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 19:25:48Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Imperial Basin Unrestricted"
+          }
+        }
+      },
+      "fractalsystems-discovery-racetoarrakeen.Mission.9": {
+        "UUID": "4ef146bc-7fdb-4645-a0df-22ddfcb204ca",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 19:25:48Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Discover the Imperial Basin like never before. Practice the Imperial Basin Race to Arrakeen Training challenge without the limitations.<br><br>Take your training to the next level with unrestricted access to Arrakis. Fly the Ornithopter in various conditions and terrains, from open deserts to intricate rock formations.<br><br>All settings present in FreeFlight should be available: feel free to turn off POIs, change time of day/weather, turn off crash damage, play around with replay or anything else."
+          }
+        }
+      },
+      "fractalsystems-discovery-racetoarrakeen.Mission.10": {
+        "UUID": "99ca0739-64d0-4dbd-9c38-509bf16839f3",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 19:25:48Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "fractalsystems-discovery-racetoarrakeen created with BushTripInjector 3.4.1.4648 Community Edition"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+<CommandsInputs>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-racetoarrakeen\PackageSources\fractalsystems-discovery-racetoarrakeen\images\Briefing.jpg" Failure="0">
+		<Package Name="fractalsystems-discovery-racetoarrakeen" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-racetoarrakeen"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-racetoarrakeen\PackageDefinitions\fractalsystems-discovery-racetoarrakeen\ContentInfo\Thumbnail.jpg" Failure="0">
+		<Package Name="fractalsystems-discovery-racetoarrakeen" Failure="0">
+			<AssetGroup Name="ContentInfo"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-racetoarrakeen\PackageSources\fractalsystems-discovery-racetoarrakeen\NotReallyDiscovery2.xml" Failure="0">
+		<Package Name="fractalsystems-discovery-racetoarrakeen" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-racetoarrakeen"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-racetoarrakeen\PackageSources\fractalsystems-discovery-racetoarrakeen\images\Activity_Widget.jpg" Failure="0">
+		<Package Name="fractalsystems-discovery-racetoarrakeen" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-racetoarrakeen"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-racetoarrakeen\PackageSources\fractalsystems-discovery-racetoarrakeen\images\Loading_Screen.jpg" Failure="0">
+		<Package Name="fractalsystems-discovery-racetoarrakeen" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-racetoarrakeen"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-racetoarrakeen\PackageSources\Landmarks\fractalsystems-discovery-racetoarrakeen\fractalsystems-discovery-racetoarrakeen-landmarks.xml" Failure="0">
+		<Package Name="fractalsystems-discovery-racetoarrakeen" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-racetoarrakeen_Landmarks"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-racetoarrakeen\PackageSources\fractalsystems-discovery-racetoarrakeen\Default_Blank_Soundbank.PC.PCK" Failure="0">
+		<Package Name="fractalsystems-discovery-racetoarrakeen" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-racetoarrakeen"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-racetoarrakeen\PackageSources\fractalsystems-discovery-racetoarrakeen\fractalsystems-discovery-racetoarrakeen.FLT" Failure="0">
+		<Package Name="fractalsystems-discovery-racetoarrakeen" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-racetoarrakeen"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-racetoarrakeen\PackageSources\fractalsystems-discovery-racetoarrakeen\fractalsystems-discovery-racetoarrakeen.xml" Failure="0">
+		<Package Name="fractalsystems-discovery-racetoarrakeen" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-racetoarrakeen"/>
+		</Package>
+	</File>
+</CommandsInputs>
+

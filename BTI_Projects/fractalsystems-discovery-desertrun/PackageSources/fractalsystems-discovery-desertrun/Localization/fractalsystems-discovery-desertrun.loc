@@ -1,0 +1,151 @@
+{
+  "LocalisationFile": {
+    "Version": 2,
+    "UUID": "8ae28f56-64f4-47f7-ac8f-54967563142c",
+    "Languages": [
+      "en-US"
+    ],
+    "Strings": {
+      "fractalsystems-discovery-desertrun.Mission.1": {
+        "UUID": "5a8e086f-5607-4530-bc8e-ef7a29dae30e",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 20:05:29Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Practice the Dune Challenges without the limitations"
+          }
+        }
+      },
+      "fractalsystems-discovery-desertrun.Mission.2": {
+        "UUID": "70affcb8-eeeb-4ac2-80fe-762419829b15",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 20:05:29Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Explore Arrakis without boundaries"
+          }
+        }
+      },
+      "fractalsystems-discovery-desertrun.Mission.3": {
+        "UUID": "0c15ec04-ee1d-4698-b0d8-cf0dab5a7eb0",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 20:05:29Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Get that perfect screenshot"
+          }
+        }
+      },
+      "fractalsystems-discovery-desertrun.Mission.4": {
+        "UUID": "f1cc625f-a1e5-46b4-bccd-dfab79954c1b",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 20:05:29Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Find hidden spots and details not seen in mission-based gameplay"
+          }
+        }
+      },
+      "fractalsystems-discovery-desertrun.Mission.5": {
+        "UUID": "05629124-feca-4920-9fc5-0a76b87d5b32",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 20:05:29Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Explore the buried/bulging Earth by teleporting to any ICAO/coordinates"
+          }
+        }
+      },
+      "fractalsystems-discovery-desertrun.Mission.6": {
+        "UUID": "4dbaf67f-1415-4532-b89e-0b948f7a6ab0",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 20:05:29Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Desert Run Training"
+          }
+        }
+      },
+      "fractalsystems-discovery-desertrun.Mission.7": {
+        "UUID": "f9a2453f-904e-481a-9226-7cdd12a44b51",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 20:05:29Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "The Minor Erg"
+          }
+        }
+      },
+      "fractalsystems-discovery-desertrun.Mission.8": {
+        "UUID": "cd240307-cf27-4564-97c8-8f7d99313136",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 20:05:29Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "The Minor Erg Unbound"
+          }
+        }
+      },
+      "fractalsystems-discovery-desertrun.Mission.9": {
+        "UUID": "8cc7d0ed-d698-43bf-a906-abb22035b909",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 20:05:29Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Discover the Minor Erg like never before. Practice the Desert Run challenge without the limitations. <br><br>Take your training to the next level with unrestricted access to Arrakis. Fly the Ornithopter in various conditions and terrains, from open deserts to intricate rock formations.<br><br>All settings present in FreeFlight should be available: feel free to turn off POIs, change time of day/weather, turn off crash damage, play around with replay or anything else."
+          }
+        }
+      },
+      "fractalsystems-discovery-desertrun.Mission.10": {
+        "UUID": "74c2a9a1-318c-45b6-a209-3f7112744d8b",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-09 20:05:29Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "fractalsystems-discovery-desertrun created with BushTripInjector 3.4.1.4648 Community Edition"
+          }
+        }
+      }
+    }
+  }
+}

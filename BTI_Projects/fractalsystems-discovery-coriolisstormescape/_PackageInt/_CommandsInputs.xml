@@ -1,0 +1,58 @@
+<CommandsInputs>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-coriolisstormescape\PackageSources\fractalsystems-discovery-coriolisstormescape\images\Loading_Screen.jpg" Failure="0">
+		<Package Name="fractalsystems-discovery-coriolisstormescape" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-coriolisstormescape"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-coriolisstormescape\PackageSources\Landmarks\fractalsystems-discovery-coriolisstormescape\fractalsystems-discovery-coriolisstormescape-landmarks.xml" Failure="0">
+		<Package Name="fractalsystems-discovery-coriolisstormescape" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-coriolisstormescape_Landmarks"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-coriolisstormescape\PackageSources\fractalsystems-discovery-coriolisstormescape\Default_Blank_Soundbank.PC.PCK" Failure="0">
+		<Package Name="fractalsystems-discovery-coriolisstormescape" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-coriolisstormescape"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-coriolisstormescape\PackageSources\fractalsystems-discovery-coriolisstormescape\NotReallyDiscovery2.xml" Failure="0">
+		<Package Name="fractalsystems-discovery-coriolisstormescape" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-coriolisstormescape"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-coriolisstormescape\PackageSources\fractalsystems-discovery-coriolisstormescape\Weather.WPR" Failure="0">
+		<Package Name="fractalsystems-discovery-coriolisstormescape" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-coriolisstormescape"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-coriolisstormescape\PackageSources\fractalsystems-discovery-coriolisstormescape\images\Activity_Widget.jpg" Failure="0">
+		<Package Name="fractalsystems-discovery-coriolisstormescape" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-coriolisstormescape"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-coriolisstormescape\PackageDefinitions\fractalsystems-discovery-coriolisstormescape\ContentInfo\Thumbnail.jpg" Failure="0">
+		<Package Name="fractalsystems-discovery-coriolisstormescape" Failure="0">
+			<AssetGroup Name="ContentInfo"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-coriolisstormescape\PackageSources\fractalsystems-discovery-coriolisstormescape\images\Briefing.jpg" Failure="0">
+		<Package Name="fractalsystems-discovery-coriolisstormescape" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-coriolisstormescape"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-coriolisstormescape\PackageSources\fractalsystems-discovery-coriolisstormescape\fractalsystems-discovery-coriolisstormescape.FLT" Failure="0">
+		<Package Name="fractalsystems-discovery-coriolisstormescape" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-coriolisstormescape"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-coriolisstormescape\PackageSources\fractalsystems-discovery-coriolisstormescape\StaticCoriolis.WPR" Failure="0">
+		<Package Name="fractalsystems-discovery-coriolisstormescape" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-coriolisstormescape"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-coriolisstormescape\PackageSources\fractalsystems-discovery-coriolisstormescape\fractalsystems-discovery-coriolisstormescape.xml" Failure="0">
+		<Package Name="fractalsystems-discovery-coriolisstormescape" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-coriolisstormescape"/>
+		</Package>
+	</File>
+</CommandsInputs>
+

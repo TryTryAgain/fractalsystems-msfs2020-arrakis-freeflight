@@ -1,0 +1,151 @@
+{
+  "LocalisationFile": {
+    "Version": 2,
+    "UUID": "745868f5-f948-4f1c-9b74-6f997c02852e",
+    "Languages": [
+      "en-US"
+    ],
+    "Strings": {
+      "fractalsystems-discovery-coriolisstormescape.Mission.1": {
+        "UUID": "4e9fbbd6-f126-4d2e-a044-7c966c8ca5aa",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-13 17:23:00Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Practice the Dune Challenges without the limitations"
+          }
+        }
+      },
+      "fractalsystems-discovery-coriolisstormescape.Mission.2": {
+        "UUID": "3bd76e15-f549-49dc-95fa-571535a8ea21",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-13 17:23:00Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Explore Arrakis without boundaries"
+          }
+        }
+      },
+      "fractalsystems-discovery-coriolisstormescape.Mission.3": {
+        "UUID": "d44f6d5f-691f-4d06-a09a-44aa7e5476cd",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-13 17:23:00Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Get that perfect screenshot"
+          }
+        }
+      },
+      "fractalsystems-discovery-coriolisstormescape.Mission.4": {
+        "UUID": "ea6b42dd-7c55-471e-839f-cd20ea81e497",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-13 17:23:00Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Find hidden spots and details not seen in mission-based gameplay"
+          }
+        }
+      },
+      "fractalsystems-discovery-coriolisstormescape.Mission.5": {
+        "UUID": "c28c0423-747e-44d6-a00a-f8f5be96667e",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-13 17:23:00Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Explore the buried/bulging Earth by teleporting to any ICAO/coordinates"
+          }
+        }
+      },
+      "fractalsystems-discovery-coriolisstormescape.Mission.6": {
+        "UUID": "84b5dc8d-e62d-4fa7-b8eb-15b561dbdbc5",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-13 17:23:00Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Coriolis Storm Escape Training"
+          }
+        }
+      },
+      "fractalsystems-discovery-coriolisstormescape.Mission.7": {
+        "UUID": "9a0009b7-b101-4ad6-b158-fd4d251dbfd1",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-13 17:23:00Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Hang Pass"
+          }
+        }
+      },
+      "fractalsystems-discovery-coriolisstormescape.Mission.8": {
+        "UUID": "969b7290-a535-44ac-afff-a7d49b002ccc",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-13 17:23:00Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Hang Pass Unlimited"
+          }
+        }
+      },
+      "fractalsystems-discovery-coriolisstormescape.Mission.9": {
+        "UUID": "936d97af-b8f6-4e24-a735-bf0d348dba1a",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-13 17:23:00Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Discover Hang Pass like never before. Practice the Coriolis Storm Escape challenge without the limitations.<br><br>Take your training to the next level with unrestricted access to Arrakis. Fly the Ornithopter in various conditions and terrains, from open deserts to intricate rock formations.<br><br>All settings present in FreeFlight should be available: feel free to turn off POIs, change time of day/weather, turn off crash damage, play around with replay or anything else."
+          }
+        }
+      },
+      "fractalsystems-discovery-coriolisstormescape.Mission.10": {
+        "UUID": "b703b6bb-a423-4793-8e62-b31f7753ef36",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-13 17:23:00Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "fractalsystems-discovery-coriolisstormescape created with BushTripInjector 3.4.1.4648 Community Edition"
+          }
+        }
+      }
+    }
+  }
+}

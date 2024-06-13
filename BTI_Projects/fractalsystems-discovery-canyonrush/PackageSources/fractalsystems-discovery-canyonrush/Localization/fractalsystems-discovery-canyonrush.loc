@@ -1,0 +1,151 @@
+{
+  "LocalisationFile": {
+    "Version": 2,
+    "UUID": "c1474b73-6a2d-43f9-8563-4fdd1371980f",
+    "Languages": [
+      "en-US"
+    ],
+    "Strings": {
+      "fractalsystems-discovery-canyonrush.Mission.1": {
+        "UUID": "2f7183ad-e00e-4f87-97fa-7bc745b5a746",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-11 18:25:55Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Practice the Dune Challenges without the limitations"
+          }
+        }
+      },
+      "fractalsystems-discovery-canyonrush.Mission.2": {
+        "UUID": "e2275350-5868-4258-bc2b-6d5535cefacf",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-11 18:25:55Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Explore Arrakis without boundaries"
+          }
+        }
+      },
+      "fractalsystems-discovery-canyonrush.Mission.3": {
+        "UUID": "c074bada-01b4-4bf5-99d6-81dad088fbfc",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-11 18:25:55Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Get that perfect screenshot"
+          }
+        }
+      },
+      "fractalsystems-discovery-canyonrush.Mission.4": {
+        "UUID": "217b03d5-ce50-43b3-9ef0-6191a4b3b5a5",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-11 18:25:55Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Find hidden spots and details not seen in mission-based gameplay"
+          }
+        }
+      },
+      "fractalsystems-discovery-canyonrush.Mission.5": {
+        "UUID": "eec72f88-58ea-4fb1-be7a-1d254611eac4",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-11 18:25:55Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Explore the buried/bulging Earth by teleporting to any ICAO/coordinates"
+          }
+        }
+      },
+      "fractalsystems-discovery-canyonrush.Mission.6": {
+        "UUID": "be97acdd-cb85-448d-b91d-2ecc19732067",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-11 18:25:55Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Canyon Rush Training"
+          }
+        }
+      },
+      "fractalsystems-discovery-canyonrush.Mission.7": {
+        "UUID": "5f47eb23-cc3a-4fa0-9e08-5d1fd0bd2178",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-11 18:25:55Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Red Chasm"
+          }
+        }
+      },
+      "fractalsystems-discovery-canyonrush.Mission.8": {
+        "UUID": "9a84fe29-3c10-48cd-8b51-9cc00defaab9",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-11 18:25:55Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Red Chasm Uncovered"
+          }
+        }
+      },
+      "fractalsystems-discovery-canyonrush.Mission.9": {
+        "UUID": "731853dc-e0cc-4a69-8f78-4eaa5b91c2d9",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-11 18:25:55Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Discover the Red Chasm like never before. Practice the Canyon Rush Red Chasm challenge without the limitations.<br><br>Take your training to the next level with unrestricted access to Arrakis. Fly the Ornithopter in various conditions and terrains, from open deserts to intricate rock formations.<br><br>All settings present in FreeFlight should be available: feel free to turn off POIs, change time of day/weather, turn off crash damage, play around with replay or anything else."
+          }
+        }
+      },
+      "fractalsystems-discovery-canyonrush.Mission.10": {
+        "UUID": "372b5b89-d1e4-4155-81e9-a213cc7aab8a",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-11 18:25:55Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "fractalsystems-discovery-canyonrush created with BushTripInjector 3.4.1.4648 Community Edition"
+          }
+        }
+      }
+    }
+  }
+}

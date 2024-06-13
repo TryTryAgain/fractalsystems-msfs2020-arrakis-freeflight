@@ -1,0 +1,611 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BushTripInjector xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Header>
+    <FileVersion>1.1</FileVersion>
+    <ProductName>BushTripInjector</ProductName>
+    <ProductVersion>3.4.1.4648</ProductVersion>
+    <ProductType>0</ProductType>
+  </Header>
+  <DiscoveryFlight>
+    <General>
+      <MissionType>Discovery</MissionType>
+      <CreateDate>2024-06-07T18:01:16.7021428Z</CreateDate>
+      <ChangeDate>2024-06-09T14:13:35.0308428Z</ChangeDate>
+      <Project>fractalsystems-discovery-racetoarrakeen</Project>
+      <ProjectShort>fractalsystems-discovery-racetoarrakeen</ProjectShort>
+      <Author>fractalsystems</Author>
+      <BushTripCategory>BushTrip</BushTripCategory>
+      <Version>1.0.0</Version>
+      <Title>Race to Arrakeen Training</Title>
+      <BaseLanguage>en-US</BaseLanguage>
+      <PackageTitle>fractalsystems-discovery-racetoarrakeen</PackageTitle>
+      <Location>Imperial Basin</Location>
+      <Description>Imperial Basin Unrestricted</Description>
+      <LoadingTips>Practice the Dune Challenges without the limitations&#xD;
+Explore Arrakis without boundaries&#xD;
+Get that perfect screenshot&#xD;
+Find hidden spots and details not seen in mission-based gameplay&#xD;
+Explore the buried/bulging Earth by teleporting to any ICAO/coordinates</LoadingTips>
+      <LoadingTipsExcludeDefault>false</LoadingTipsExcludeDefault>
+      <Intro>Discover the Imperial Basin like never before. Practice the Imperial Basin Race to Arrakeen Training challenge without the limitations.&#xD;
+&#xD;
+Take your training to the next level with unrestricted access to Arrakis. Fly the Ornithopter in various conditions and terrains, from open deserts to intricate rock formations.&#xD;
+&#xD;
+All settings present in FreeFlight should be available: feel free to turn off POIs, change time of day/weather, turn off crash damage, play around with replay or anything else.</Intro>
+      <Aircraft>Ornithopter</Aircraft>
+      <Payload> 170.0, 170.0,   0.0,   0.0,   0.0</Payload>
+      <LoadFPintoGPS>true</LoadFPintoGPS>
+      <ColdAndDark>false</ColdAndDark>
+      <FuelPercent>90</FuelPercent>
+      <IsRefuelEnabled>false</IsRefuelEnabled>
+      <RefuelOption>Flightpath</RefuelOption>
+      <Heavy>false</Heavy>
+      <Pilot>None</Pilot>
+      <Copilot>None</Copilot>
+      <HeadingM>0.0</HeadingM>
+      <HeadingT>0</HeadingT>
+      <Pitch>0</Pitch>
+      <Bank>0</Bank>
+      <AdjustAirportElevation>true</AdjustAirportElevation>
+      <AdjustWaypointElevation>false</AdjustWaypointElevation>
+      <AdjustWaypointElevationValue>500</AdjustWaypointElevationValue>
+      <RoundWaypointElevation>true</RoundWaypointElevation>
+      <Multiplayer>true</Multiplayer>
+      <LandingDetectionParkingBrakeSet>false</LandingDetectionParkingBrakeSet>
+      <LandingDetectionBatteryMasterOff>false</LandingDetectionBatteryMasterOff>
+      <LandingDetectionAvionicsMasterOff>false</LandingDetectionAvionicsMasterOff>
+      <LandingDetectionEnginesOff>false</LandingDetectionEnginesOff>
+      <Season>HARD_WINTER</Season>
+      <AtcEnabled>false</AtcEnabled>
+      <AssistanceOptionsEnabled>false</AssistanceOptionsEnabled>
+      <FlyAssistantEnabled>true</FlyAssistantEnabled>
+      <ChecklistEnabled>false</ChecklistEnabled>
+      <NavlogEnabled>true</NavlogEnabled>
+      <VFRMapEnabled>true</VFRMapEnabled>
+      <WeatherEnabled>true</WeatherEnabled>
+      <InnerColor>Blue</InnerColor>
+      <OuterColor>DarkBlue</OuterColor>
+      <InnerTextColor>AliceBlue</InnerTextColor>
+      <OuterTextColor>AliceBlue</OuterTextColor>
+      <ImageType>Jpg</ImageType>
+      <UseRewardscreen>true</UseRewardscreen>
+      <TranslateWPNamesInFLT>false</TranslateWPNamesInFLT>
+      <LanguageWPName>en-US</LanguageWPName>
+      <TranslateTTS>false</TranslateTTS>
+      <LanguageTTS>en-US</LanguageTTS>
+      <ConditionalTTSActivationText>TTS enabled.</ConditionalTTSActivationText>
+      <ConditionalTTSDeActivationText>TTS disabled.</ConditionalTTSDeActivationText>
+      <MarketplaceData>true</MarketplaceData>
+      <Copyright>created by </Copyright>
+      <DateTime>3500-12-01T08:39:48</DateTime>
+    </General>
+    <DiscoveryFlight>
+      <MissionSubType>Core</MissionSubType>
+      <StartingCamera>Aircraft</StartingCamera>
+      <Center>
+        <Latitude>14.929934</Latitude>
+        <Longitude>24.260519</Longitude>
+        <Altitude>3130</Altitude>
+        <AltitudeReference>Ground</AltitudeReference>
+      </Center>
+      <Distance>100000</Distance>
+      <Height>8000</Height>
+      <SpawnPosition>
+        <Latitude>14.837671</Latitude>
+        <Longitude>24.198673</Longitude>
+        <Altitude>4100</Altitude>
+        <AltitudeReference>Ground</AltitudeReference>
+      </SpawnPosition>
+      <Velocity>390</Velocity>
+      <Heading>90</Heading>
+      <Pitch>0</Pitch>
+      <Bank>0</Bank>
+      <MusicStyle>WWISE</MusicStyle>
+      <MusicSelection>Default_Blank_Soundbank</MusicSelection>
+      <NearestPOIMulti>30</NearestPOIMulti>
+      <TargetedPOIMutli>30</TargetedPOIMutli>
+    </DiscoveryFlight>
+    <FlightPlanInfo>
+      <Departure>
+        <Runway>-</Runway>
+        <Location>
+          <Latitude>0</Latitude>
+          <Longitude>0</Longitude>
+          <Altitude>0</Altitude>
+          <AltitudeReference>Ground</AltitudeReference>
+        </Location>
+      </Departure>
+      <CruisingAlt>3000</CruisingAlt>
+    </FlightPlanInfo>
+    <Weather>
+      <CurrWeatherType>Preset</CurrWeatherType>
+      <CurrWeatherPreset>ClearSky</CurrWeatherPreset>
+    </Weather>
+    <Landmarks>
+      <Landmark Name="Race to Arrakeen Start" Offset="0" Alt="900" Lat="14.8376685142963" Lon="24.1986731255072" Owner="fractalsystems" Description="" Type="POI" InstanceId="1714e1d4-bbb6-4724-8be5-01f1e663e97f" Active="true" IngameMarker="false" />
+      <Landmark Name="Race to Arrakeen Landing 1" Offset="0" Alt="3009" Lat="14.8373188102125" Lon="24.2924103907338" Owner="fractalsystems" Description="" Type="POI" InstanceId="9762aa4c-cd8a-4b6c-90f6-de8cdff44346" Active="true" IngameMarker="false" />
+      <Landmark Name="Race to Arrakeen Landing 2" Offset="0" Alt="2858" Lat="14.9232410535677" Lon="24.3524409430446" Owner="fractalsystems" Description="" Type="POI" InstanceId="47c606c0-c0c7-45d5-bec4-0ad5be7338b2" Active="true" IngameMarker="false" />
+      <Landmark Name="Race to Arrakeen Landing 3" Offset="0" Alt="2460" Lat="14.9765694696935" Lon="24.3412171832414" Owner="fractalsystems" Description="" Type="POI" InstanceId="2899e7fa-abc6-4c1e-887a-1fb51d64814a" Active="true" IngameMarker="false" />
+    </Landmarks>
+    <Text-to-Speech />
+    <AssistancePresets>
+      <AutoMixture InstanceId="4c8e24c8-5072-44c4-b282-49d2ee310ea3">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_AUTOMIXTURE</AssistanceItemID>
+      </AutoMixture>
+      <UnlimitedFuel InstanceId="98a495d0-c463-49bf-a0a2-dec90211c56e">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_UNLIMITED_FUEL</AssistanceItemID>
+      </UnlimitedFuel>
+      <AircraftLights InstanceId="92695c5d-90d2-4cfb-a8d9-4cca912f77b1">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_AIRCRAFT_LIGHTS</AssistanceItemID>
+      </AircraftLights>
+      <GyroDrift InstanceId="35c0e0d4-a48d-44dd-b096-7dc32bba8b2a">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_GYRO_DRIFT</AssistanceItemID>
+      </GyroDrift>
+      <NoCrashMode InstanceId="f2e2437d-1fba-4fec-ab5c-6b93b9873764">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_NO_CRASH_MODE</AssistanceItemID>
+      </NoCrashMode>
+      <NoStressDamage InstanceId="637d56a6-f625-4406-805f-f937db19e692">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_NO_STRESS_DAMAGE</AssistanceItemID>
+      </NoStressDamage>
+      <NoEngineStressDamage InstanceId="aec843f1-b43b-46a1-904d-f1e1b17070e2">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_NO_ENGINE_STRESS_DAMAGE</AssistanceItemID>
+      </NoEngineStressDamage>
+      <Icing InstanceId="d1649bf7-8db2-4ad4-a424-0e16f8c56192">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_ICING</AssistanceItemID>
+      </Icing>
+      <WorldWaypoints InstanceId="73debc6c-bac9-4559-b3c8-ffdb972a4b7f">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_WORLD_WAYPOINTS</AssistanceItemID>
+      </WorldWaypoints>
+      <TaxiRibbons InstanceId="ace4050e-5fdb-473c-9a79-5380d45f3467">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_TAXI_RIBBON</AssistanceItemID>
+      </TaxiRibbons>
+      <LandingRibbon InstanceId="2019df8c-5ab4-4fc0-a676-485e4d2da8ce">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_LANDING_RIBBON</AssistanceItemID>
+      </LandingRibbon>
+      <NotificatiosPiloting InstanceId="0a6142e2-89b1-49c2-87cb-2748c14fa970">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_NOTIFICATIONS_PILOTING</AssistanceItemID>
+      </NotificatiosPiloting>
+      <NotificatiosAircraftSystem InstanceId="b11517ba-54d6-41ce-89b9-17d391ca417e">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_NOTIFICATIONS_AIRCRAFT_SYSTEM</AssistanceItemID>
+      </NotificatiosAircraftSystem>
+      <NotificatiosFylingTips InstanceId="307acc3a-cabe-4b09-9cfc-7096d4558dc3">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_NOTIFICATIONS_FLYING_TIPS</AssistanceItemID>
+      </NotificatiosFylingTips>
+      <NotificatiosObjectives InstanceId="853802e5-268c-4b82-8666-9b9691a3cd23">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_NOTIFICATIONS_OBJECTIVES</AssistanceItemID>
+      </NotificatiosObjectives>
+      <NotificatiosSoftwareTips InstanceId="0db03b9a-35c4-4149-af88-0f94421ef7ea">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_NOTIFICATIONS_SOFTWARE_TIPS</AssistanceItemID>
+      </NotificatiosSoftwareTips>
+      <AssistedRudder InstanceId="7c2f8e30-4980-4258-a993-0eb4d4642e99">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_ASSISTED_RUDDER</AssistanceItemID>
+      </AssistedRudder>
+      <AssistedYoke InstanceId="1fd682d3-220b-4daf-b4ff-40225368df6b">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_ASSISTED_YOKE</AssistanceItemID>
+      </AssistedYoke>
+      <DelegateChecklist InstanceId="678f609a-4429-4be2-a8b6-9e306f161ba1">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_DELEGATE_CHECKLIST</AssistanceItemID>
+      </DelegateChecklist>
+      <AssistedLanding InstanceId="e07c68e4-6153-415f-8f28-fa4ed0a3774e">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_ASSISTED_LANDING</AssistanceItemID>
+      </AssistedLanding>
+      <AssistedTakeoff InstanceId="6ae5c8d1-1e4b-497e-8c9b-5af63eafdb0e">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_ASSISTED_TAKEOFF</AssistanceItemID>
+      </AssistedTakeoff>
+      <DelegateATC InstanceId="2cbaa54f-a793-41f4-bade-f68cad270817">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_DELEGATE_ATC</AssistanceItemID>
+      </DelegateATC>
+      <AntiStall InstanceId="5395ff25-dbcd-4fc7-8646-57e5bbcfc4dc">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_ANTI_STALL</AssistanceItemID>
+      </AntiStall>
+      <AutoTrim InstanceId="017c0b2e-0eda-47dc-8135-c8b42b7c1c90">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_AUTOTRIM</AssistanceItemID>
+      </AutoTrim>
+      <AssistedGamepadSensitivity InstanceId="3d623e06-31f8-4512-a767-9c8108ec65c1">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_ASSISTED_GAMEPAD_SENSITIVITY</AssistanceItemID>
+      </AssistedGamepadSensitivity>
+      <TowFlyingBox InstanceId="4ee4d781-1cf3-4e62-8da1-2832258d95d2">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_TOW_FLYING_BOX</AssistanceItemID>
+      </TowFlyingBox>
+      <HeliTailRotor InstanceId="4002eb06-43d0-4251-867c-19c1b4281e58">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_HELI_TAILROTOR</AssistanceItemID>
+      </HeliTailRotor>
+      <HeliCyclic InstanceId="16bc06ff-02ac-486f-9b14-8151f64aabdd">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_HELI_CYCLIC</AssistanceItemID>
+      </HeliCyclic>
+      <SmartcamMode InstanceId="8ac6eb5d-2297-480c-ba2d-df5d7663bd5c">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_SMARTCAM_MODE</AssistanceItemID>
+      </SmartcamMode>
+      <SmartcamEnablePOI InstanceId="8e82b90a-3063-414c-86aa-d15f748e0c06">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>ON</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_SMARTCAM_ENABLE_POI</AssistanceItemID>
+      </SmartcamEnablePOI>
+      <SmartcamEnableCities InstanceId="b4023edd-f4f1-4bff-9868-d340e3cce432">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_SMARTCAM_ENABLE_CITIES</AssistanceItemID>
+      </SmartcamEnableCities>
+      <SmartcamEnableAirport InstanceId="50ab468b-4538-4fad-8f28-1c74a3c16c27">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_SMARTCAM_ENABLE_AIRPORT</AssistanceItemID>
+      </SmartcamEnableAirport>
+      <SmartcamEnableFauna InstanceId="7f5cac72-9cb1-4b56-89d4-02f483ffb12a">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_SMARTCAM_ENABLE_FAUNA</AssistanceItemID>
+      </SmartcamEnableFauna>
+      <DisplayDirection InstanceId="5517415c-efde-40c4-bded-348b7ee1ee1e">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_DISPLAY_DIRECTION</AssistanceItemID>
+      </DisplayDirection>
+      <DisplayAllLabels InstanceId="8389dffa-5e09-4227-b019-1eb51facfbd8">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_DISPLAY_ALL_LABELS</AssistanceItemID>
+      </DisplayAllLabels>
+      <AirMassFlowMode InstanceId="f47d9482-9dc6-4b30-9db7-edce80f5dcbb">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_AIR_MASS_FLOW_MODE</AssistanceItemID>
+      </AirMassFlowMode>
+      <ATCPanelOpenAtStart InstanceId="f0c2dedf-b773-4c76-b708-146a7625a8db">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_ATC_PANEL_OPEN_AT_START</AssistanceItemID>
+      </ATCPanelOpenAtStart>
+      <ATCShowMessageLog InstanceId="9052e480-434e-4291-9241-03a90ed19548">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_ATC_SHOW_MESSAGE_LOG</AssistanceItemID>
+      </ATCShowMessageLog>
+      <ATCVoiceEnabled InstanceId="b5066353-0042-4909-a311-2e8443173277">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_ATC_VOICE_ENABLED</AssistanceItemID>
+      </ATCVoiceEnabled>
+      <CheckListOpenAtStart InstanceId="9238141f-6c76-4805-96f8-46faa8950615">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_CHECKLIST_OPEN_AT_START</AssistanceItemID>
+      </CheckListOpenAtStart>
+      <VFRMapOpenAtStart InstanceId="3cb15b23-f652-4625-8b49-396d6e78f040">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_VFR_MAP_OPEN_AT_START</AssistanceItemID>
+      </VFRMapOpenAtStart>
+      <NavLogOpenAtStart InstanceId="409eda07-7c27-4b11-b3be-a9ee32937da3">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_NAV_LOG_OPEN_AT_START</AssistanceItemID>
+      </NavLogOpenAtStart>
+      <AIPilotingCursorModus InstanceId="c8e90c20-4730-4b03-9a50-c6050fbbc8d7">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_AI_PILOTING_CURSOR_MODE</AssistanceItemID>
+      </AIPilotingCursorModus>
+      <HUDChase InstanceId="99092eca-074c-47f7-a335-ec3c90e06bcd">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_HUD_CHASE</AssistanceItemID>
+      </HUDChase>
+      <HUDCockpit InstanceId="14b35d1f-fac3-4f45-ad6f-f4287da3067b">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_HUD_COCKPIT</AssistanceItemID>
+      </HUDCockpit>
+      <G_Effect InstanceId="adca053b-661f-4ae7-b6e3-65bb7d65a3dc">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_G_EFFECT</AssistanceItemID>
+      </G_Effect>
+      <G_Suit InstanceId="4ea00a96-942f-47ea-9859-caff87be8337">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_G_SUIT</AssistanceItemID>
+      </G_Suit>
+      <FreeflightAutoLogbook InstanceId="13d8e787-1c9b-4481-b1b0-11c446f90dec">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_FREEFLIGHT_AUTO_LOGBOOK</AssistanceItemID>
+      </FreeflightAutoLogbook>
+      <ATCPanelEnabled InstanceId="1fe5e242-6ec9-43a0-b706-6b757ed4d09a">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_ATC_PANEL_ENABLED</AssistanceItemID>
+      </ATCPanelEnabled>
+      <DelegateControl InstanceId="005edbbc-7bd6-448d-b073-b1ecb7bc8af9">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_DELEGATE_CONTROL</AssistanceItemID>
+      </DelegateControl>
+      <AssistedElevator InstanceId="31fb6f6e-4330-4a88-a83e-a8f13d44abe8">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>true</ActiveInTripSetting>
+        <SetChangeable>UNLOCK</SetChangeable>
+        <SetValue>AUTO</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_ASSISTED_ELEVATOR</AssistanceItemID>
+      </AssistedElevator>
+      <NoCollisions InstanceId="81f48e24-dd17-4930-851e-d22b28be80b3">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>false</ActiveInTripSetting>
+        <SetChangeable>LOCK</SetChangeable>
+        <SetValue>ON</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_NO_COLLISIONS</AssistanceItemID>
+      </NoCollisions>
+      <ATCUseFlightplan InstanceId="1631f08a-c9bc-4101-aeb0-324ce5aa3fc0">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>false</ActiveInTripSetting>
+        <SetChangeable>LOCK</SetChangeable>
+        <SetValue>ON</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_ATC_USE_FLIGHT_PLAN</AssistanceItemID>
+      </ATCUseFlightplan>
+      <AutoTuneFreqAtStart InstanceId="ae665df3-44e8-4ebf-a7ad-c5cb6c1f0ab5">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>false</ActiveInTripSetting>
+        <SetChangeable>LOCK</SetChangeable>
+        <SetValue>OFF</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_AUTO_TUNE_FREQUENCY_AT_START</AssistanceItemID>
+      </AutoTuneFreqAtStart>
+      <WaypointPylon InstanceId="654bbc05-bee5-4766-a918-7817fbcc0839">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>false</ActiveInTripSetting>
+        <SetChangeable>LOCK</SetChangeable>
+        <SetValue>OFF</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_WAYPOINT_PYLON</AssistanceItemID>
+      </WaypointPylon>
+      <Breadcrumb InstanceId="1becc678-0685-47c4-898a-6035c658342e">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>false</ActiveInTripSetting>
+        <SetChangeable>LOCK</SetChangeable>
+        <SetValue>OFF</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_BREADCRUMB</AssistanceItemID>
+      </Breadcrumb>
+      <BackOnTrack InstanceId="f78394d2-86d7-47d5-a924-53a563cdf80d">
+        <Descr>TripSetting</Descr>
+        <EndActionsDelaySeconds>0</EndActionsDelaySeconds>
+        <ActiveInTripSetting>false</ActiveInTripSetting>
+        <SetChangeable>LOCK</SetChangeable>
+        <SetValue>OFF</SetValue>
+        <AssistanceItemID>ASSISTANCE_ITEM_BACK_ON_TRACK</AssistanceItemID>
+      </BackOnTrack>
+    </AssistancePresets>
+    <Events>
+      <Triggers />
+    </Events>
+    <FLTFile />
+    <Guids>
+      <Dictionary>
+        <Item key="Flight" value="cddd71ee-e55f-4579-8c61-bd05bfa6347a" />
+        <Item key="LocEntry_BTI Ident" value="99ca0739-64d0-4dbd-9c38-509bf16839f3" />
+        <Item key="LocEntry_Description" value="e7cc583c-90a1-4704-8bb5-34f2781edba2" />
+        <Item key="LocEntry_Intro" value="4ef146bc-7fdb-4645-a0df-22ddfcb204ca" />
+        <Item key="LocEntry_LoadingTip0" value="8dc71505-c9c8-4311-86a4-9e02ca25a768" />
+        <Item key="LocEntry_LoadingTip1" value="7999e00c-fce9-40d1-9409-f9d25c2f0f7c" />
+        <Item key="LocEntry_LoadingTip2" value="8afa69ab-3b02-427c-81a2-9f1a2c202ef8" />
+        <Item key="LocEntry_LoadingTip3" value="d5110332-c0fd-44ba-8505-b2b5cbb20c81" />
+        <Item key="LocEntry_LoadingTip4" value="6b5086f3-7cb9-4155-836a-99d421545dce" />
+        <Item key="LocEntry_Location" value="c4bafe06-be7e-4516-94be-911f34b2a6bb" />
+        <Item key="LocEntry_Title" value="258eb2f7-03a7-44c8-b495-f8676385a7b8" />
+        <Item key="LocGuid" value="24ab2601-a79c-4368-bc28-8eb5f170cc46" />
+        <Item key="MissionBushTrip" value="d7e2aaf8-6be7-4482-bba5-25b8667d7c6d" />
+      </Dictionary>
+    </Guids>
+  </DiscoveryFlight>
+</BushTripInjector>

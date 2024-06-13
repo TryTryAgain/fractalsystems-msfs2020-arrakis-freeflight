@@ -1,0 +1,59 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/fractalsystems-discovery-canyonrush/ContentHistory.json",
+      "size": 673,
+      "date": 133626040970374334
+    },
+    {
+      "path": "ContentInfo/fractalsystems-discovery-canyonrush/Thumbnail.jpg",
+      "size": 18227,
+      "date": 133625940594782006
+    },
+    {
+      "path": "en-US.locPak",
+      "size": 1546,
+      "date": 133626040970404333
+    },
+    {
+      "path": "Missions/fractalsystems/Discovery/fractalsystems-discovery-canyonrush/Default_Blank_Soundbank.PC.PCK",
+      "size": 44464,
+      "date": 133619175191435299
+    },
+    {
+      "path": "Missions/fractalsystems/Discovery/fractalsystems-discovery-canyonrush/fractalsystems-discovery-canyonrush.FLT",
+      "size": 5294,
+      "date": 133626039559061933
+    },
+    {
+      "path": "Missions/fractalsystems/Discovery/fractalsystems-discovery-canyonrush/fractalsystems-discovery-canyonrush.spb",
+      "size": 2333,
+      "date": 133626040969794320
+    },
+    {
+      "path": "Missions/fractalsystems/Discovery/fractalsystems-discovery-canyonrush/images/Activity_Widget.jpg",
+      "size": 80838,
+      "date": 133625904060000000
+    },
+    {
+      "path": "Missions/fractalsystems/Discovery/fractalsystems-discovery-canyonrush/images/Briefing.jpg",
+      "size": 495834,
+      "date": 133625939320000000
+    },
+    {
+      "path": "Missions/fractalsystems/Discovery/fractalsystems-discovery-canyonrush/images/Loading_Screen.jpg",
+      "size": 1044964,
+      "date": 133625937380000000
+    },
+    {
+      "path": "Missions/fractalsystems/Discovery/fractalsystems-discovery-canyonrush/NotReallyDiscovery2.spb",
+      "size": 4267,
+      "date": 133626040969844324
+    },
+    {
+      "path": "scenery/Landmarks/fractalsystems-discovery-canyonrush-landmarks.bgl",
+      "size": 504,
+      "date": 133626040970299328
+    }
+  ]
+}

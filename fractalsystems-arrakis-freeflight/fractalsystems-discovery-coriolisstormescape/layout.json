@@ -1,0 +1,69 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/fractalsystems-discovery-coriolisstormescape/ContentHistory.json",
+      "size": 804,
+      "date": 133627730523808452
+    },
+    {
+      "path": "ContentInfo/fractalsystems-discovery-coriolisstormescape/Thumbnail.jpg",
+      "size": 18227,
+      "date": 133627685603681232
+    },
+    {
+      "path": "en-US.locPak",
+      "size": 1651,
+      "date": 133627730523848439
+    },
+    {
+      "path": "Missions/fractalsystems/Discovery/fractalsystems-discovery-coriolisstormescape/Default_Blank_Soundbank.PC.PCK",
+      "size": 44464,
+      "date": 133619175191435299
+    },
+    {
+      "path": "Missions/fractalsystems/Discovery/fractalsystems-discovery-coriolisstormescape/fractalsystems-discovery-coriolisstormescape.FLT",
+      "size": 5339,
+      "date": 133627729808283368
+    },
+    {
+      "path": "Missions/fractalsystems/Discovery/fractalsystems-discovery-coriolisstormescape/fractalsystems-discovery-coriolisstormescape.spb",
+      "size": 2360,
+      "date": 133627730523323452
+    },
+    {
+      "path": "Missions/fractalsystems/Discovery/fractalsystems-discovery-coriolisstormescape/images/Activity_Widget.jpg",
+      "size": 85779,
+      "date": 133627720250000000
+    },
+    {
+      "path": "Missions/fractalsystems/Discovery/fractalsystems-discovery-coriolisstormescape/images/Briefing.jpg",
+      "size": 511099,
+      "date": 133627726980000000
+    },
+    {
+      "path": "Missions/fractalsystems/Discovery/fractalsystems-discovery-coriolisstormescape/images/Loading_Screen.jpg",
+      "size": 433856,
+      "date": 133627726600000000
+    },
+    {
+      "path": "Missions/fractalsystems/Discovery/fractalsystems-discovery-coriolisstormescape/NotReallyDiscovery2.spb",
+      "size": 4267,
+      "date": 133627730523203458
+    },
+    {
+      "path": "Missions/fractalsystems/Discovery/fractalsystems-discovery-coriolisstormescape/StaticCoriolis.WPR",
+      "size": 3278,
+      "date": 133627659245805870
+    },
+    {
+      "path": "Missions/fractalsystems/Discovery/fractalsystems-discovery-coriolisstormescape/Weather.WPR",
+      "size": 3278,
+      "date": 133627659245805870
+    },
+    {
+      "path": "scenery/Landmarks/fractalsystems-discovery-coriolisstormescape-landmarks.bgl",
+      "size": 692,
+      "date": 133627730523748445
+    }
+  ]
+}

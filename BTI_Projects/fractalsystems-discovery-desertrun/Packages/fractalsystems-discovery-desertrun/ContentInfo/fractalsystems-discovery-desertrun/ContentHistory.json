@@ -1,0 +1,31 @@
+{
+  "package-name": "fractalsystems-discovery-desertrun",
+  "items": [
+    {
+      "type": "Poi",
+      "content": "{2e36858d-b083-45ed-8dd4-34b95418534a}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{233c8657-6b43-466b-9360-da7ccade1e3c}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{e1016d2f-98c0-4480-9b91-15814a448f6d}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{a4b2781d-c8c0-44fd-a3fd-e9ac54bc9072}",
+      "revision": 1
+    },
+    {
+      "type": "Discovery",
+      "subtype": "CORE",
+      "content": "fractalsystems-discovery-desertrun.FLT",
+      "revision": 1
+    }
+  ]
+}

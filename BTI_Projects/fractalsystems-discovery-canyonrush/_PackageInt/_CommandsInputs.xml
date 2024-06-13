@@ -1,0 +1,48 @@
+<CommandsInputs>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-canyonrush\PackageSources\Landmarks\fractalsystems-discovery-canyonrush\fractalsystems-discovery-canyonrush-landmarks.xml" Failure="0">
+		<Package Name="fractalsystems-discovery-canyonrush" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-canyonrush_Landmarks"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-canyonrush\PackageSources\fractalsystems-discovery-canyonrush\images\Briefing.jpg" Failure="0">
+		<Package Name="fractalsystems-discovery-canyonrush" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-canyonrush"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-canyonrush\PackageSources\fractalsystems-discovery-canyonrush\NotReallyDiscovery2.xml" Failure="0">
+		<Package Name="fractalsystems-discovery-canyonrush" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-canyonrush"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-canyonrush\PackageSources\fractalsystems-discovery-canyonrush\images\Loading_Screen.jpg" Failure="0">
+		<Package Name="fractalsystems-discovery-canyonrush" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-canyonrush"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-canyonrush\PackageSources\fractalsystems-discovery-canyonrush\fractalsystems-discovery-canyonrush.FLT" Failure="0">
+		<Package Name="fractalsystems-discovery-canyonrush" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-canyonrush"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-canyonrush\PackageSources\fractalsystems-discovery-canyonrush\fractalsystems-discovery-canyonrush.xml" Failure="0">
+		<Package Name="fractalsystems-discovery-canyonrush" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-canyonrush"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-canyonrush\PackageSources\fractalsystems-discovery-canyonrush\images\Activity_Widget.jpg" Failure="0">
+		<Package Name="fractalsystems-discovery-canyonrush" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-canyonrush"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-canyonrush\PackageDefinitions\fractalsystems-discovery-canyonrush\ContentInfo\Thumbnail.jpg" Failure="0">
+		<Package Name="fractalsystems-discovery-canyonrush" Failure="0">
+			<AssetGroup Name="ContentInfo"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-canyonrush\PackageSources\fractalsystems-discovery-canyonrush\Default_Blank_Soundbank.PC.PCK" Failure="0">
+		<Package Name="fractalsystems-discovery-canyonrush" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-canyonrush"/>
+		</Package>
+	</File>
+</CommandsInputs>
+

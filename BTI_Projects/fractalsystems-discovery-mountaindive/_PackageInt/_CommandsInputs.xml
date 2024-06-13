@@ -1,0 +1,48 @@
+<CommandsInputs>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-mountaindive\PackageSources\fractalsystems-discovery-mountaindive\Default_Blank_Soundbank.PC.PCK" Failure="0">
+		<Package Name="fractalsystems-discovery-mountaindive" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-mountaindive"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-mountaindive\PackageSources\fractalsystems-discovery-mountaindive\NotReallyDiscovery2.xml" Failure="0">
+		<Package Name="fractalsystems-discovery-mountaindive" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-mountaindive"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-mountaindive\PackageSources\fractalsystems-discovery-mountaindive\images\Activity_Widget.jpg" Failure="0">
+		<Package Name="fractalsystems-discovery-mountaindive" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-mountaindive"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-mountaindive\PackageSources\Landmarks\fractalsystems-discovery-mountaindive\fractalsystems-discovery-mountaindive-landmarks.xml" Failure="0">
+		<Package Name="fractalsystems-discovery-mountaindive" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-mountaindive_Landmarks"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-mountaindive\PackageSources\fractalsystems-discovery-mountaindive\fractalsystems-discovery-mountaindive.FLT" Failure="0">
+		<Package Name="fractalsystems-discovery-mountaindive" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-mountaindive"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-mountaindive\PackageSources\fractalsystems-discovery-mountaindive\images\Briefing.jpg" Failure="0">
+		<Package Name="fractalsystems-discovery-mountaindive" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-mountaindive"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-mountaindive\PackageSources\fractalsystems-discovery-mountaindive\fractalsystems-discovery-mountaindive.xml" Failure="0">
+		<Package Name="fractalsystems-discovery-mountaindive" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-mountaindive"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-mountaindive\PackageSources\fractalsystems-discovery-mountaindive\images\Loading_Screen.jpg" Failure="0">
+		<Package Name="fractalsystems-discovery-mountaindive" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-mountaindive"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-mountaindive\PackageDefinitions\fractalsystems-discovery-mountaindive\ContentInfo\Thumbnail.jpg" Failure="0">
+		<Package Name="fractalsystems-discovery-mountaindive" Failure="0">
+			<AssetGroup Name="ContentInfo"/>
+		</Package>
+	</File>
+</CommandsInputs>
+

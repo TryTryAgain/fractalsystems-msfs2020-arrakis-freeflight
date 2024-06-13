@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="1.0.0">
+	<ItemSettings>
+		<ContentType>MISSION</ContentType>
+		<Title>fractalsystems-discovery-coriolisstormescape</Title>
+		<Manufacturer>fractalsystems</Manufacturer>
+		<Creator>fractalsystems</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>true</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags> 
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\fractalsystems-discovery-coriolisstormescape\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\fractalsystems-discovery-coriolisstormescape\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="fractalsystems-discovery-coriolisstormescape">
+			<Type>Mission</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\fractalsystems-discovery-coriolisstormescape\</AssetDir>
+			<OutputDir>Missions\fractalsystems\Discovery\fractalsystems-discovery-coriolisstormescape\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="fractalsystems-discovery-coriolisstormescape_Landmarks">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Landmarks\fractalsystems-discovery-coriolisstormescape\</AssetDir>
+			<OutputDir>scenery\Landmarks\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>

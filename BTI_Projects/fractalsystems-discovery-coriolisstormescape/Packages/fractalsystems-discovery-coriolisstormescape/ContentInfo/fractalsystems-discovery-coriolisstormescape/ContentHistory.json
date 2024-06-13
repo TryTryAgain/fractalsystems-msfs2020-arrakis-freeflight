@@ -1,0 +1,36 @@
+{
+  "package-name": "fractalsystems-discovery-coriolisstormescape",
+  "items": [
+    {
+      "type": "Poi",
+      "content": "{68142ef3-6f15-4915-a5d7-4162e447cda2}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{2e4f8120-034f-4db9-aea3-24b06e7e05e8}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{eefa71fd-829a-4bd7-8299-b367afa61f44}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{133b8256-0ba4-4eb1-a0cd-f63d3be7c011}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{b0a503be-75a2-4edc-bb8a-e169c7580106}",
+      "revision": 1
+    },
+    {
+      "type": "Discovery",
+      "subtype": "CORE",
+      "content": "fractalsystems-discovery-coriolisstormescape.FLT",
+      "revision": 1
+    }
+  ]
+}

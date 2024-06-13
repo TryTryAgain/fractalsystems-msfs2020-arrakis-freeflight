@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="1.0.0">
+	<ItemSettings>
+		<ContentType>MISSION</ContentType>
+		<Title>fractalsystems-discovery-canyonrush</Title>
+		<Manufacturer>fractalsystems</Manufacturer>
+		<Creator>fractalsystems</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>true</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags> 
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\fractalsystems-discovery-canyonrush\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\fractalsystems-discovery-canyonrush\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="fractalsystems-discovery-canyonrush">
+			<Type>Mission</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\fractalsystems-discovery-canyonrush\</AssetDir>
+			<OutputDir>Missions\fractalsystems\Discovery\fractalsystems-discovery-canyonrush\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="fractalsystems-discovery-canyonrush_Landmarks">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Landmarks\fractalsystems-discovery-canyonrush\</AssetDir>
+			<OutputDir>scenery\Landmarks\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>

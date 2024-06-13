@@ -1,0 +1,31 @@
+{
+  "package-name": "fractalsystems-discovery-canyonrush",
+  "items": [
+    {
+      "type": "Poi",
+      "content": "{c92c5793-f4b5-4064-8377-9f8b1bd417cc}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{e9179f5b-efb2-4770-8d41-c8be141116d9}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{1e03a202-ea8f-4669-8e91-040ef94d2c89}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{28e2a565-37ca-44be-8140-6a416156726d}",
+      "revision": 1
+    },
+    {
+      "type": "Discovery",
+      "subtype": "CORE",
+      "content": "fractalsystems-discovery-canyonrush.FLT",
+      "revision": 1
+    }
+  ]
+}

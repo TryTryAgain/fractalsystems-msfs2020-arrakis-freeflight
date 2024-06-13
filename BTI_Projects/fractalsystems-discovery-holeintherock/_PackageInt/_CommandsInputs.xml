@@ -1,0 +1,48 @@
+<CommandsInputs>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-holeintherock\PackageSources\fractalsystems-discovery-holeintherock\images\Activity_Widget.jpg" Failure="0">
+		<Package Name="fractalsystems-discovery-holeintherock" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-holeintherock"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-holeintherock\PackageSources\fractalsystems-discovery-holeintherock\fractalsystems-discovery-holeintherock.FLT" Failure="0">
+		<Package Name="fractalsystems-discovery-holeintherock" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-holeintherock"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-holeintherock\PackageSources\fractalsystems-discovery-holeintherock\fractalsystems-discovery-holeintherock.xml" Failure="0">
+		<Package Name="fractalsystems-discovery-holeintherock" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-holeintherock"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-holeintherock\PackageSources\Landmarks\fractalsystems-discovery-holeintherock\fractalsystems-discovery-holeintherock-landmarks.xml" Failure="0">
+		<Package Name="fractalsystems-discovery-holeintherock" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-holeintherock_Landmarks"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-holeintherock\PackageSources\fractalsystems-discovery-holeintherock\Default_Blank_Soundbank.PC.PCK" Failure="0">
+		<Package Name="fractalsystems-discovery-holeintherock" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-holeintherock"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-holeintherock\PackageSources\fractalsystems-discovery-holeintherock\images\Loading_Screen.jpg" Failure="0">
+		<Package Name="fractalsystems-discovery-holeintherock" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-holeintherock"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-holeintherock\PackageDefinitions\fractalsystems-discovery-holeintherock\ContentInfo\Thumbnail.jpg" Failure="0">
+		<Package Name="fractalsystems-discovery-holeintherock" Failure="0">
+			<AssetGroup Name="ContentInfo"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-holeintherock\PackageSources\fractalsystems-discovery-holeintherock\images\Briefing.jpg" Failure="0">
+		<Package Name="fractalsystems-discovery-holeintherock" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-holeintherock"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\BushTripInjector\Projects\fractalsystems-discovery-holeintherock\PackageSources\fractalsystems-discovery-holeintherock\NotReallyDiscovery2.xml" Failure="0">
+		<Package Name="fractalsystems-discovery-holeintherock" Failure="0">
+			<AssetGroup Name="fractalsystems-discovery-holeintherock"/>
+		</Package>
+	</File>
+</CommandsInputs>
+

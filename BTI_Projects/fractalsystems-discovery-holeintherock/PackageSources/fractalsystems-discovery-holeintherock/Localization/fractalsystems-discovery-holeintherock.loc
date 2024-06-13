@@ -1,0 +1,151 @@
+{
+  "LocalisationFile": {
+    "Version": 2,
+    "UUID": "0e5dd3b2-7494-4360-892b-10aad5557ac4",
+    "Languages": [
+      "en-US"
+    ],
+    "Strings": {
+      "fractalsystems-discovery-holeintherock.Mission.1": {
+        "UUID": "8f4433e5-8547-43ce-9212-252ba8539656",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-11 16:38:57Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Practice the Dune Challenges without the limitations"
+          }
+        }
+      },
+      "fractalsystems-discovery-holeintherock.Mission.2": {
+        "UUID": "a2ee32d5-2fa0-4375-8db5-256a34d6585e",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-11 16:38:57Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Explore Arrakis without boundaries"
+          }
+        }
+      },
+      "fractalsystems-discovery-holeintherock.Mission.3": {
+        "UUID": "7aa02876-cff6-432f-aa67-a7c906f0168f",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-11 16:38:57Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Get that perfect screenshot"
+          }
+        }
+      },
+      "fractalsystems-discovery-holeintherock.Mission.4": {
+        "UUID": "81dc0409-d2b8-49e4-a7df-481e8551ce26",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-11 16:38:57Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Find hidden spots and details not seen in mission-based gameplay"
+          }
+        }
+      },
+      "fractalsystems-discovery-holeintherock.Mission.5": {
+        "UUID": "5850addc-463d-46d0-aa58-cd977e4507d7",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-11 16:38:57Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Explore the buried/bulging Earth by teleporting to any ICAO/coordinates"
+          }
+        }
+      },
+      "fractalsystems-discovery-holeintherock.Mission.6": {
+        "UUID": "a911364d-7d84-4713-8226-8c95308526a3",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-11 16:38:57Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Hole-in-the-Rock Training"
+          }
+        }
+      },
+      "fractalsystems-discovery-holeintherock.Mission.7": {
+        "UUID": "bdc0b8d1-e279-44a4-bb10-2f9827a41a7e",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-11 16:38:57Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "False Wall East"
+          }
+        }
+      },
+      "fractalsystems-discovery-holeintherock.Mission.8": {
+        "UUID": "f82f7a4e-8106-4656-9d5e-38ab8f51156e",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-11 16:38:57Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "False Wall East Unveiled"
+          }
+        }
+      },
+      "fractalsystems-discovery-holeintherock.Mission.9": {
+        "UUID": "b0eed3d1-7879-4f81-9f4a-a5a578815d75",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-11 16:38:57Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Discover the False Wall East like never before. Practice the Hole-in-the-Rock False Wall East challenge without the limitations.<br><br>Take your training to the next level with unrestricted access to Arrakis. Fly the Ornithopter in various conditions and terrains, from open deserts to intricate rock formations.<br><br>All settings present in FreeFlight should be available: feel free to turn off POIs, change time of day/weather, turn off crash damage, play around with replay or anything else."
+          }
+        }
+      },
+      "fractalsystems-discovery-holeintherock.Mission.10": {
+        "UUID": "54720675-ae13-43d0-861d-b195e3fda562",
+        "LastModifiedBy": "fractalsystems",
+        "LastModifiedDate": "2024-06-11 16:38:57Z",
+        "LocalizationStatus": "Translated",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "fractalsystems-discovery-holeintherock created with BushTripInjector 3.4.1.4648 Community Edition"
+          }
+        }
+      }
+    }
+  }
+}

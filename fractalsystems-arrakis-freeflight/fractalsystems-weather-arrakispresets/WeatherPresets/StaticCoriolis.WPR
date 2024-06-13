@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="WeatherPreset" version="1,4">
+    <Descr>AceXML Document</Descr>
+    <WeatherPreset.Preset>
+        <Name>Storm - Coriolis Escape</Name>
+        <IsAltitudeAMGL>True</IsAltitudeAMGL>
+        <Sandstorm>
+            <Latitude>6.338623</Latitude>
+            <Longitude>24.236634</Longitude>
+        </Sandstorm>
+        <CloudLayer>
+            <CloudLayerDensity Value="0.000" Unit="(0 - 1)">
+            </CloudLayerDensity>
+            <CloudLayerCoverage Value="0.000" Unit="(0 - 1)">
+            </CloudLayerCoverage>
+            <CloudLayerAltitudeBot Value="1641.961" Unit="m">
+            </CloudLayerAltitudeBot>
+            <CloudLayerAltitudeTop Value="2141.833" Unit="m">
+            </CloudLayerAltitudeTop>
+            <CloudLayerScattering Value="0.000" Unit="(0 - 1)">
+            </CloudLayerScattering>
+        </CloudLayer>
+        <CloudLayer>
+            <CloudLayerDensity Value="0.000" Unit="(0 - 1)">
+            </CloudLayerDensity>
+            <CloudLayerCoverage Value="0.000" Unit="(0 - 1)">
+            </CloudLayerCoverage>
+            <CloudLayerAltitudeBot Value="6889.597" Unit="m">
+            </CloudLayerAltitudeBot>
+            <CloudLayerAltitudeTop Value="8865.405" Unit="m">
+            </CloudLayerAltitudeTop>
+            <CloudLayerScattering Value="0.000" Unit="(0 - 1)">
+            </CloudLayerScattering>
+        </CloudLayer>
+        <CloudLayer>
+            <CloudLayerDensity Value="0.000" Unit="(0 - 1)">
+            </CloudLayerDensity>
+            <CloudLayerCoverage Value="0.000" Unit="(0 - 1)">
+            </CloudLayerCoverage>
+            <CloudLayerAltitudeBot Value="10000.000" Unit="m">
+            </CloudLayerAltitudeBot>
+            <CloudLayerAltitudeTop Value="10250.000" Unit="m">
+            </CloudLayerAltitudeTop>
+            <CloudLayerScattering Value="0.000" Unit="(0 - 1)">
+            </CloudLayerScattering>
+        </CloudLayer>
+        <WindLayer>
+            <WindLayerAltitude Value="0.000" Unit="m">
+            </WindLayerAltitude>
+            <WindLayerAngle Value="270.000" Unit="degrees">
+            </WindLayerAngle>
+            <WindLayerSpeed Value="30.250" Unit="knts">
+            </WindLayerSpeed>
+            <GustWave>
+                <GustAngle Value="270.000" Unit="degrees"></GustAngle>
+                <GustWaveInterval Value="15" Unit="sec"></GustWaveInterval>
+                <GustWaveDuration Value="4" Unit="sec"></GustWaveDuration>
+                <GustWaveSpeed Value="10" Unit="knts"></GustWaveSpeed>
+            </GustWave>
+        </WindLayer>
+        <MSLPressure Value="101325.000" Unit="pa">
+        </MSLPressure>
+        <MSLTemperature Value="288.150" Unit="k">
+        </MSLTemperature>
+        <AerosolDensity Value="1.900" Unit="m">
+        </AerosolDensity>
+        <Pollution Value="0.000" Unit="(0 - 1)">
+        </Pollution>
+        <Precipitations Value="0.000" Unit="mm/h">
+        </Precipitations>
+        <SnowCover Value="0.000" Unit="m">
+        </SnowCover>
+        <ThunderstormIntensity Value="0.000" Unit="(0 - 1)">
+        </ThunderstormIntensity>
+    </WeatherPreset.Preset>
+</SimBase.Document>
