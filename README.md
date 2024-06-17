@@ -71,6 +71,12 @@ Pieced together by Michael Lawler aka FractalSystems @ <https://github.com/TryTr
 - The ability to teleport anywhere on the buried/bulging Earth planet called Dune :D
 - The ability to coexist with multiplayer traffic from the real world :D
 
+### Extras
+
+- <https://flightsim.to/file/76271/msfs-dune-arrakis-poi-littlenavmap> Little Navmap POIs
+  - For all of the Dune Challenges' objectives and touch and go points
+  - For newly found POIs like "Random/Unknown Landing Pad #1", can you find more?
+
 ## Installation
 
 🛩️ Add it to your Community folder, find it in Custom Content 🛩️
@@ -79,7 +85,7 @@ Pieced together by Michael Lawler aka FractalSystems @ <https://github.com/TryTr
 
 - The Dune Expansion DLC is required for this to work
 - Download, extract, and add everything from within `fractalsystems-arrakis-freeflight` to your community folder
-  - You can copy all or be selective, whatever you want, but don't copy only the root folder with everything inside...that won't work, it must be the 
+  - You can copy all or be selective, whatever you want, but don't copy only the root folder with everything inside...that won't work, it must be the contents of the main folder (ie: all 6 or 7 folders or whatever subset you want to copy over/use). WindSailor is supported and works just fine.
 - If you have path length or any other issues extracting I would recommend using 7-Zip -> Extract to "fractalsystems-arrakis-freeflight\"
   - Then you can move into your community folder or symlinked through and addon linker
 - Find the Missions under Custom Content sections named:
