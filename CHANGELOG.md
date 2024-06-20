@@ -1,6 +1,18 @@
 # Change Log
 
+## [1.1.3] - 2024-06-20
+
+Hotfix - Nested folder issue with the zip, sorry about that...
+
+Additional Notes:
+...sorry for the subsequent hotfix, didn't realize how it had nested the folder in the zip I uploaded and that caused an issue with being able to extract (at least for me).
+
+If you happen to be a WindSailor user, I had additional issues:
+You may need to go to the hamburger menu in the top right -> Open Settings -> Edit saved package's custom installation folders -> Wait for it to load/Scroll to the bottom and Delete "dune-challenges-without-challenges" ... Also delete the files/folders from that location. Not sure if that was because of the added 'fractalsystems-poi-dunearrakis' addon/folder or what, hope it doesn't have issues in future updates.
+
 ## [1.1.2] - 2024-06-20
+
+Download v1.1.3 instead, the v1.1.2 has been removed as it had a nested folder issue with the zip
 
 ### Added
 
