@@ -1,0 +1,17 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "fractalsystems-discovery-holeintherock.Mission.1": "Practice the Dune Challenges without the limitations",
+      "fractalsystems-discovery-holeintherock.Mission.10": "fractalsystems-discovery-holeintherock created with BushTripInjector 3.4.1.4648 Community Edition",
+      "fractalsystems-discovery-holeintherock.Mission.2": "Explore Arrakis without boundaries",
+      "fractalsystems-discovery-holeintherock.Mission.3": "Get that perfect screenshot",
+      "fractalsystems-discovery-holeintherock.Mission.4": "Find hidden spots and details not seen in mission-based gameplay",
+      "fractalsystems-discovery-holeintherock.Mission.5": "Explore the buried\/bulging Earth by teleporting to any ICAO\/coordinates",
+      "fractalsystems-discovery-holeintherock.Mission.6": "Hole-in-the-Rock Training",
+      "fractalsystems-discovery-holeintherock.Mission.7": "False Wall East",
+      "fractalsystems-discovery-holeintherock.Mission.8": "False Wall East Unveiled",
+      "fractalsystems-discovery-holeintherock.Mission.9": "Discover the False Wall East like never before. Practice the Hole-in-the-Rock False Wall East challenge without the limitations.<br><br>Take your training to the next level with unrestricted access to Arrakis. Fly the Ornithopter in various conditions and terrains, from open deserts to intricate rock formations.<br><br>All settings present in FreeFlight should be available: feel free to turn off POIs, change time of day\/weather, turn off crash damage, play around with replay or anything else."
+    }
+  }
+}

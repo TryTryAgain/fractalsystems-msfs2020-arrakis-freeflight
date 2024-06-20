@@ -1,0 +1,19 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/fractalsystems-poi-dunearrakis/ContentHistory.json",
+      "size": 297,
+      "date": 133633794093503067
+    },
+    {
+      "path": "ContentInfo/fractalsystems-poi-dunearrakis/Thumbnail.jpg",
+      "size": 5446,
+      "date": 133609524152672544
+    },
+    {
+      "path": "Scenery/poi-dunearrakis/POI/dunearrakis.bgl",
+      "size": 300,
+      "date": 133633794093458052
+    }
+  ]
+}

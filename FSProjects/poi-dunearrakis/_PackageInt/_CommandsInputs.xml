@@ -1,0 +1,13 @@
+<CommandsInputs>
+	<File Path="C:\Users\luke\Documents\MyFSProjects\poi-dunearrakis\PackageSources\Scenery\poi-dunearrakis\POI\dunearrakis.xml" Failure="0">
+		<Package Name="fractalsystems-poi-dunearrakis" Failure="0">
+			<AssetGroup Name="POI"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\luke\Documents\MyFSProjects\poi-dunearrakis\PackageDefinitions\fractalsystems-poi-dunearrakis\ContentInfo\Thumbnail.jpg" Failure="0">
+		<Package Name="fractalsystems-poi-dunearrakis" Failure="0">
+			<AssetGroup Name="ContentInfo"/>
+		</Package>
+	</File>
+</CommandsInputs>
+

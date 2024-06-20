@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>fractalsystems-poi-dunearrakis</Title>
+		<Manufacturer/>
+		<Creator>FractalSystems</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\fractalsystems-poi-dunearrakis\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\fractalsystems-poi-dunearrakis</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="POI">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\poi-dunearrakis\POI\</AssetDir>
+			<OutputDir>Scenery\poi-dunearrakis\POI\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

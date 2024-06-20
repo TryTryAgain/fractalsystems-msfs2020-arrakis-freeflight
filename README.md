@@ -1,10 +1,9 @@
 # fractalsystems-msfs2020-arrakis-freeflight
 
-🛩️ Microsoft Flight Simulator 2020 custom content
-🛩️
+🛩️ Microsoft Flight Simulator 2020 custom content 🛩️
 
-    🚨🚁 THIS IS PROVIDED AS IS WITHOUT ANY WARRANTY OR GUARANTEE 🚁🚨
-    🚨🚁   THE AUTHOR IS NOT LIABLE FOR ANY DAMAGES OR LOSSES.    🚁🚨
+🚨🚁 THIS IS PROVIDED AS IS WITHOUT ANY WARRANTY OR GUARANTEE 🚁🚨
+🚨🚁   THE AUTHOR IS NOT LIABLE FOR ANY DAMAGES OR LOSSES.    🚁🚨
 
 🌎🛫🌍✈️🌍🛬🌏
 
@@ -70,6 +69,7 @@ Pieced together by Michael Lawler aka FractalSystems @ <https://github.com/TryTr
 - The ability to land and takeoff wherever you want without any time constraints or world/settings limitations
 - The ability to teleport anywhere on the buried/bulging Earth planet called Dune :D
 - The ability to coexist with multiplayer traffic from the real world :D
+  - Fly with your friends, challenge them to the Dune Challenges
 
 ### Extras
 

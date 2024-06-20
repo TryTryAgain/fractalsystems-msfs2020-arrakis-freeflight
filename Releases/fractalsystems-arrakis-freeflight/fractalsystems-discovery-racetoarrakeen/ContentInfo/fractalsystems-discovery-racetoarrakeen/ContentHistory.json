@@ -1,0 +1,31 @@
+{
+  "package-name": "fractalsystems-discovery-racetoarrakeen",
+  "items": [
+    {
+      "type": "Poi",
+      "content": "{1714e1d4-bbb6-4724-8be5-01f1e663e97f}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{9762aa4c-cd8a-4b6c-90f6-de8cdff44346}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{47c606c0-c0c7-45d5-bec4-0ad5be7338b2}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{2899e7fa-abc6-4c1e-887a-1fb51d64814a}",
+      "revision": 1
+    },
+    {
+      "type": "Discovery",
+      "subtype": "CORE",
+      "content": "fractalsystems-discovery-racetoarrakeen.FLT",
+      "revision": 1
+    }
+  ]
+}
